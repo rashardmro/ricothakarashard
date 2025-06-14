@@ -12,6 +12,15 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+
+
+![image](https://github.com/user-attachments/assets/18fbabcc-672b-404f-b619-3c30e3624d01)
+[WiKi](https://en.wikipedia.org/wiki/Beat_Bop) [K-ROb](https://en.wikipedia.org/wiki/K-Rob) [Basquiat’s ‘Beat Bop’: An Oral History of One of the Most Valuable Hip-Hop Records of All Time spin.com 2013](https://www.spin.com/2013/11/beat-bop-basquiat-k-rob-rammellzee-freak-freak/) [The Spectacular Personal Mythology of Rammellzee](https://www.newyorker.com/magazine/2018/05/28/the-spectacular-personal-mythology-of-rammellzee) [Nipsey Hussle’s Marathon Burger opens on Venice Beach - Crowds, Police Action, & more](https://www.youtube.com/watch?v=KCKNQdL0zD0)
+
+[r/hiphop101 •2 yR ago u/reclinernotes "Beat Bop" - Rammellzee, K-Rob, and Basquiat](https://www.reddit.com/r/hiphop101/comments/17zobqf/beat_bop_rammellzee_krob_and_basquiat/) [METRO POLICE pull up in riot gear on Fremont Street Las Vegas](https://www.youtube.com/watch?v=5tBY0QFhqV8) [Tear gas deployed at anti-ICE protest FOX 5 News](https://youtu.be/Lh-gwI3sPNI?si=AJkI7acMdBn1Xjol)
+![image](https://github.com/user-attachments/assets/79d1789a-e4a9-40e3-b269-8c409ab0a399) [Rhythm Roulette: Apollo Brown](https://www.youtube.com/watch?v=-A8guoBpIfA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpCyZ-giFTE?si=3Dog14_h4Nv2t8fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # California Constitution
 <object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
 <p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
