@@ -18,6 +18,115 @@ title: Current
 {{ site.url }}
 {{ site.baseurl }}
 # Compiling
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+
+
+{{ site.url }}
+{{ site.baseurl }}
+# Compiling
+### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
+<object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
+[RashardsBinder](https://rashardmro.github.io/mybinder/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/Georgia/comments/1lbgkyn/no_kings_day_rallies_in_protest_of_trump_taking/">'No Kings' Day rallies in protest of Trump taking place across metro Atlanta</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Georgia/">Georgia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+{% highlight markdown %}
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif">](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+{% endhighlight %}
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif" />](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+
+```markdown
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+```
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+
+### Server error. Try again later. ’No Kings’ protest live: Nationwide anti-Trump protest coincides with DC Army parade date 
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/longbeach/comments/1l974tc/im_the_flag_guy/">I’m the flag guy</a><br> by<a href="https://www.reddit.com/user/mattbookpro101491/">u/mattbookpro101491</a> in<a href="https://www.reddit.com/r/longbeach/">longbeach</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![image](https://github.com/user-attachments/assets/ab2725c6-5daa-43e9-a70f-1f25a72b5e49)
+
+<iframe src="https://archive.org/embed/screen-recording-2025-06-14-11.21.27-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/privacy/comments/18pjhef/what_is_doxxing_and_what_can_you_do_if_you_are/">What is doxxing and what can you do if you are doxxed?</a><br> by<a href="https://www.reddit.com/user/wewewawa/">u/wewewawa</a> in<a href="https://www.reddit.com/r/privacy/">privacy</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+# LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UjvTSiE9iA?si=YJkxl1EwOoLtJmdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+ <div class="tupperware">
+
+<a href="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec"><img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="Ornithological Photography" /></a>
+<a href="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7"><img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="Ornithological Photography" /></a>
+</div>
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+# @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
+Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmIfvsf2ng?si=GjXodMhGH-a4i9Xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![image](https://github.com/user-attachments/assets/0d6ed085-9197-4401-b1e1-f77ec9447965)
+
+
+
+`oks like the webpage at https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0 might be having issues, or it may have moved permanently to a new web ad` 
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l65vqj/mass_meta_account_shut_down_i_was_reviewed_and/">Mass Meta account shut down. I was reviewed and disabled. My FB account &amp;</a><br> by<a href="https://www.reddit.com/user/Mysterious-Belt-2992/">u/Mysterious-Belt-2992</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+'''shell
+Palo Alto 155.190.2.33
+active
+Last accessed on Jun 11, 2025
+Seen in U
+Palo Alto 155.190.2.33
+Last accessed on Jun 11, 2025
+Seen in US
+Device:
+Chrome on Chrome OS
+
+Last location:
+Palo Alto, California, United States
+
+Signed in:
+June 11, 2025
+Palo Alto, California, United States
+@nasa @nasa-jpl @cityoflosangeles @meta @dod-ccpo
+![image](https://github.com/user-attachments/assets/c8cdb4c4-3d0d-4d85-8435-04116577b3f1)
+
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+@blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook @stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+![image](https://github.com/user-attachments/assets/47047575-6c6e-4a7c-801c-3396acffd235)
+
+![image](https://github.com/user-attachments/assets/9512054f-b4c5-430d-a020-22b5101b6591)
+
+![image](https://github.com/user-attachments/assets/983ca3c5-1b70-45ec-8ea8-a5be28dbee45)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=CyMyDdC_pfNdgjkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Presidents Day working in la. River review VID 20250217 120844
+@nasa @nasa-jpl @cityoflosangeles @stateofcalifornia  
+<iframe src="https://archive.org/embed/vid-20250217-120844" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Federal lawmakers accuse Ga. child welfare of ‘systematically failing’
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo2He3Qg6cA?si=ZNQ-8fKMK4xhe6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 # Thakarashard.github.io 
 LA_RiOTS:LiVE_NEWS:DEMO
 
