@@ -43,7 +43,7 @@ carousels:
 
 
 
-{{ site.time | date: '%c' }}
+
 
 # Currently Compling g_e, m/s^2
 
@@ -58,25 +58,14 @@ carousels:
    
  </div> 
 
-
 {{ site.url }}
 {{ site.baseurl }}
-# Compiling
-<div class="box">
-
-  {% for post in site.posts %}
-     
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
- </div> 
+# Compiling {{ site.time | date: '%c' }}
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 
 
-{{ site.url }}
-{{ site.baseurl }}
-# Compiling
 ### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
 <object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
@@ -109,9 +98,52 @@ carousels:
 # LIVE: Mayor Bass provides updates on day 7 of ICE raids and protests around L.A.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auyIffK4zwI?si=oyurTPXLa1pttIYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# California Constitution
-<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
-<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+
+
+![insight](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
+# DSCOVR: EPIC 
+# DSCOVR: Deep Space Climate Observatory
+![NOAA - DEEP_SPACE_NETOWORK](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
+
+[📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro)
+[DSCOVR: Deep Space Climate Observatory](https://www.nesdis.noaa.gov/current-satellite-missions/currently-flying/dscovr-deep-space-climate-observatory)
+The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015, and maintains the nation's real-time solar wind monitoring capabilities, which are critical to the accuracy and lead time of NOAA's space weather alerts and forecasts... It sits Behind the moon from my understadning and that position is how it is able to capture [LunaRoccultation](https://ntrs.nasa.gov/citations/19780020077) so well
+## What is an occultation in astronomy? 
+A lunar occultation in astronomy is when the Moon appears to move in front of another object in the sky like a star, a planet or an asteroid. - @AntonVamplew [Anton Vamplew - BBC](https://www.skyatnightmagazine.com/advice/occultation-astronomy-what)
+WHAT IS EPIC?
+![epic](https://epic.gsfc.nasa.gov/contents/assets/Image_002.jpg)
+EPIC (Earth Polychromatic Imaging Camera) is a 10-channel spectroradiometer (317 – 780 nm) onboard NOAA’s DSCOVR (Deep Space Climate Observatory) spacecraft. EPIC provides 10 narrow band spectral images of the entire sunlit face of Earth using a 2048x2048 pixel CCD (Charge Coupled Device) detector coupled to a 30-cm aperture Cassegrain telescope [ReadMore](https://epic.gsfc.nasa.gov/about/epic)
+
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" width="100%" height=600px ></object>
+
+## 50 Years of GOES
+In 2025, NOAA celebrates 50 years of its heralded Geostationary Operational Environmental Satellite program, known as GOES. For five decades, NOAA and NASA have partnered to advance NOAA satellite observations from [geostationary orbit](https://www.esa.int/ESA_Multimedia/Images/2020/03/Geostationary_orbit). 
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
+  video.
+</video>
+
+# Interactive Global Geostationary Weather Satellite Images 
+>George C. Marshall Space Flight Center [GOES](https://weather.msfc.nasa.gov/GOES)
+[ satellite image map to view data - `CLiCKHERE`](https://weather.ndc.nasa.gov/GOES/)
+The SPoRT Viewer is an interactive tool that displays dynamic imagery from various Earth Science resources [map](https://www.star.nesdis.noaa.gov/GOES/)
+
+[SPoRT Viewer - Near Real-Time](https://weather.ndc.nasa.gov/sport/viewer/?dataset=imerglate&product=rrlate000&location=global)
+
+<div class="tupperware">
+
+<img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/1960_first_tiros1_big.jpg" />
+<img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/1960_first_tiros1_big.jpg" />
+<img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg" />
+
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UjvTSiE9iA?si=YJkxl1EwOoLtJmdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
