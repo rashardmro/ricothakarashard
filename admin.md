@@ -42,7 +42,7 @@
 {% endfor %}
 </div>
 
-
+[@nasa someoen is trying to delete this blog of a @blackgirlscode in the avatar @whitehouse @cityoflosangeles @stateofcalifornia ](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
 
 </SECTiON>
 </MAIN>
