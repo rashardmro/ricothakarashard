@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import "normalize";
 @import "fonts";
@@ -25,35 +26,21 @@ $container-max-width: 1000px;
 
 
 
-
-
-
-
 html {
-  color: white;
-  font-family: "Comfortaa", "Ubuntu Mono", serif;
-  font-size: 1rem;
-  height: 100vh;
-  width: 100vw;
-  background: linear-gradient(45deg, 
-              #fb3 25%, #262624 0, #262624 50%,
-              #fb3 0, #fb3 75%, #262624 0);
-background-size: 80.4px 80.4px;
-
-  background-attachment: fixed;
-  font-optical-sizing: auto;
-}
-
-/* segaGrid
-  background: #0D0D0D;
-  background-image:
-    linear-gradient(#262626 1px, transparent 0),
-    linear-gradient(90deg, #262626 1px, transparent 0);
+    font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
+    sans-serif;
+  background : #352EF2;
+  background-image :
+    linear-gradient(#446FF2 1px, transparent 0),
+    linear-gradient(90deg, #446FF2 1px, transparent 0);
   background-size: 30px 30px;
-  background-attachment: fixed;
+    background-attachment: fixed;   
+    height: 100%;
+    width: 100%;
+  }
 
 
-  */
+
 
 #MAiN {
   display: flex;
@@ -132,7 +119,7 @@ HGROUP h1 {
   }
   
 
-  
+  .whitebg {background-color:white;}
 
 h1 {
 
@@ -228,13 +215,16 @@ body {
 }
 
 img {
-
+    display: block;
+    border-radius: 0px 0px 0px 0px;
+    max-width: 100%;
+    max-height: auto;
+    transition: all 0.5s linear;
+  }
   
-  max-height:100%;
-  max-width:100%;
-  display:inline;
-  
-}
+img:hover {
+    transform: scale(1.05);
+  }
 
 .twitter-tweet { margin:0;
                   padding:0;}
@@ -320,49 +310,54 @@ img[alt="kk"] {
 
 
 
-  .tupperware > * {
-    border: 1px solid #c9ff23;
-    border-radius: 5px;
-    padding: 0px;
-    flex-basis: 30%;
-    flex-shrink:2;
-    flex-grow:1;
-    overflow: hidden;
-    transition: all 300ms ease-in-out;
-    
-    &:hover {
-      flex-grow: 9.3;
-      
-    }
-  }
-  
-  
-  .tupperware {
-    display: flex;
-    justify-content: space-evenly;
-    flex-flow: row wrap; 
-    padding: 15px;
-    gap: 5px;
-    height: auto;
-  }
-  
-  .tupperware img {
-    width: fit-content;
-    block-size: fit-content;
-    height: min-content;
-  }
-  
-  .tupperware figcaption {
-    background-color: #22222290;
-    color: #fff;
-    font: bold small sans-serif;
-    padding: 3px;
-    text-align: center;
-  }
-  
-   
 
- 
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 10px;
+  flex-basis: 200px;
+  flex-shrink:3;
+  
+  flex-grow:1;
+  overflow: hidden;
+  width: fit-content;
+  block-size: max-content;
+  height: fit-content;
+  align-items: flex-start;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  padding: 1px;
+  gap: 1px;
+  height: auto;
+}
+
+.tupperware img {
+
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+
+
+
 
   .enlarge_item {
     display:flex;
