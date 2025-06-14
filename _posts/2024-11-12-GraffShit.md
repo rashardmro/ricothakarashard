@@ -12,16 +12,33 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
-[REDBULL:@rbmhtechnology The History of the Zoo York Mixtape](https://www.redbull.com/au-en/the-history-of-the-zoo-york-mixtape)  : [Girl Talk on 5NL](https://youtu.be/ZlhZZUstJx4) [The 90s skate video that changed the face of counterculture](https://www.huckmag.com/article/the-90s-skate-video-that-changed-the-face-of-counterculture) [Zoo York - Mix Tape 2](https://www.youtube.com/watch?v=8yZZX5tD21c) [1993 - 411VM Industry - Zoo York](https://youtu.be/rfZM53jQLZ4) [Zoo York - Unbreakable: Mixtape 2](https://www.skatevideosite.com/videos/zoo-york-unbreakable-mix-tape-2) [Thrasher-Skate and Destroy (1996)](https://youtu.be/HZGWTfq8Yy0?si=6MIupPo1iibl0uUK) [Steel Wheels 2012 Atlanta](https://youtu.be/EPayrNgiwKM) [lisa missed it](https://youtu.be/xY_DeNYWtIo?si=BarXmJBBhpG1p7H3) 
+# Zoo York "Mixtape" (1998) : [Skate Video Vault - youtube.com/@SkateVideoVault](https://www.youtube.com/@SkateVideoVault)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGSPDuwiAHM?si=Hc9oMOHmNn-XiDU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![image](https://github.com/user-attachments/assets/606446d9-9c7f-49dc-87e2-360876a196e0)
+@blackgirlscode @nasa @cityoflosangeles @stateofcalifornia [REDBULL:@rbmhtechnology The History of the Zoo York Mixtape](https://www.redbull.com/au-en/the-history-of-the-zoo-york-mixtape)  : [Girl Talk on 5NL](https://youtu.be/ZlhZZUstJx4) [The 90s skate video that changed the face of counterculture](https://www.huckmag.com/article/the-90s-skate-video-that-changed-the-face-of-counterculture) [Zoo York - Mix Tape 2](https://www.youtube.com/watch?v=8yZZX5tD21c) [1993 - 411VM Industry - Zoo York](https://youtu.be/rfZM53jQLZ4) [Zoo York - Unbreakable: Mixtape 2](https://www.skatevideosite.com/videos/zoo-york-unbreakable-mix-tape-2) [Thrasher-Skate and Destroy (1996)](https://youtu.be/HZGWTfq8Yy0?si=6MIupPo1iibl0uUK) [Steel Wheels 2012 Atlanta](https://youtu.be/EPayrNgiwKM) [lisa missed it](https://youtu.be/xY_DeNYWtIo?si=BarXmJBBhpG1p7H3) [MAnhattanTrump](https://youtu.be/V_hmZ4--YlQ?si=N94eOwH32jTIV1PP)
 ![image](https://github.com/user-attachments/assets/18fbabcc-672b-404f-b619-3c30e3624d01)
 [WiKi](https://en.wikipedia.org/wiki/Beat_Bop) [K-ROb](https://en.wikipedia.org/wiki/K-Rob) [Basquiat’s ‘Beat Bop’: An Oral History of One of the Most Valuable Hip-Hop Records of All Time spin.com 2013](https://www.spin.com/2013/11/beat-bop-basquiat-k-rob-rammellzee-freak-freak/) [The Spectacular Personal Mythology of Rammellzee](https://www.newyorker.com/magazine/2018/05/28/the-spectacular-personal-mythology-of-rammellzee) [Nipsey Hussle’s Marathon Burger opens on Venice Beach - Crowds, Police Action, & more](https://www.youtube.com/watch?v=KCKNQdL0zD0) [r/hiphop101 •2 yR ago u/reclinernotes "Beat Bop" - Rammellzee, K-Rob, and Basquiat](https://www.reddit.com/r/hiphop101/comments/17zobqf/beat_bop_rammellzee_krob_and_basquiat/) [METRO POLICE pull up in riot gear on Fremont Street Las Vegas](https://www.youtube.com/watch?v=5tBY0QFhqV8) [Tear gas deployed at anti-ICE protest FOX 5 News](https://youtu.be/Lh-gwI3sPNI?si=AJkI7acMdBn1Xjol)  [Rhythm Roulette: Apollo Brown](https://www.youtube.com/watch?v=-A8guoBpIfA) [Former marine protests because the Constitution is 'under attack' fox atl @ajc](https://youtu.be/K77GpHnYtjA) [rammellzee - no guts no galaxy](https://www.youtube.com/watch?v=00sZ_snl_lA)
 ![image](https://github.com/user-attachments/assets/79d1789a-e4a9-40e3-b269-8c409ab0a399) [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA&t=602s) [`Bulldog Battle` 06 Brooxs One battleing into MZK's](https://youtu.be/AVZyNqDjgnI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpCyZ-giFTE?si=3Dog14_h4Nv2t8fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/134966014&color=%2300c2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fathiphopbrekbeat" title="fathiphopbrekbeat" target="_blank" style="color: #cccccc; text-decoration: none;">fathiphopbrekbeat</a> · <a href="https://soundcloud.com/fathiphopbrekbeat/the-fearless-four-rockin-it" title="The Fearless Four - Rockin It" target="_blank" style="color: #cccccc; text-decoration: none;">The Fearless Four - Rockin It</a></div>
+
+# Thrasher Box Set - Disc 1 - The Truth Hurts (1993)_Need for Speed (1993)_Sponsor Me (1994) ISO file
+<iframe src="https://archive.org/embed/thrasher-box-set-disc-1-the-truth-hurts-1993_need-for-speed-1993_sponsor-me-1994-iso-file" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Thrasher Box Set - Disc 4 - Skate and Destroy
+<object data="https://archive.org/embed/thrasher-box-set-disc-4-skate-and-destroy-1996_vidiot-1998_hillbilly-roadkill-1998-iso-file" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+# Black On Both Sides
+by Mos Def
+<iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+![image](https://github.com/user-attachments/assets/a1f5ece7-f284-4161-8698-c1c0185bc48c)
+![image](https://github.com/user-attachments/assets/82ce30de-1012-4ea7-a6fd-47302efee107)
+![image](https://github.com/user-attachments/assets/61776978-2f16-4e86-bdc2-d939ec48d91a)
+
+
 # Thrasher - Skate and Destroy (USA) 
-<iframe src="https://archive.org/embed/psx_thrasher" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<object data="https://archive.org/embed/psx_thrasher" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 # California Constitution
 <object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
