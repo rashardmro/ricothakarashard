@@ -13,6 +13,67 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 {% endfor %}
 
 
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Who is rioting in downtown L.A., demonstrators or habitual agitators?](https://ktla.com/news/local-news/who-is-rioting-in-downtown-l-a-demonstrators-or-habitual-agitators/)
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history) @ktla @abc7 
+
+# Crews clean off graffiti from City Hall
+Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Kuo](https://www.latimes.com/people/kelvin-kuo) [LATiMES - Shocking vandalism rampage in downtown L.A. sparks outrage as LAPD seeks suspects](https://www.latimes.com/california/story/2025-05-27/dtla-vandalism-investigation)
+<object
+  type="application/pdf"
+  data="https://ia601809.us.archive.org/19/items/image_20250428_2325/CiTYHALLGRAFFSimpleScanStation20250611190559.pdf"
+  width="500"
+  height="400"></object>
+
+  [Finger-pointing continues in downtown LA graffiti saga FOX11 @foxbroadcasting](https://www.youtube.com/watch?v=dCh_ggVG_qo)  [DTLA](https://youtube.com/shorts/Mz5FyXKdo8E?si=WOQITWoZf3PdJGOt) [LA city workers remove graffiti debris from violent protests](https://youtu.be/nGvMB2LpF8k?t=2) [Will Smith - Pretty @blackGirlscode (Official Video)](https://www.youtube.com/watch?v=NMeIUNcCUjE) [Lisa from Temecula - SNL](https://youtu.be/zxxCaw74ptk) [Sheriff Robert Luna discusses the law enforcement response in downtown LA](https://youtu.be/gWFlTgfG02A?si=_BUizea568Nd0HF0) [LA County Close Up Episode 237](https://youtu.be/0Wvud_dhwk4) @cityoflosangeles @stateofcalifornia 
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+<picture>
+  <source  srcset="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG">
+  <source  srcset="https://github.com/user-attachments/assets/d8872e9f-01fc-44bb-9cf8-7299d652b023">
+
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/1d5fbb4/2147483647/strip/true/crop/3758x2132+0+0/resize/1024x581!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F80%2F518470384c4eb4a13da730261e60%2Fla-me-vandalism-mob002.JPG" alt="Flowers" style="width:auto;">
+</picture>
+
+# California Constitution @thomsonreuters @EPFL-LAPD
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[Arrests made after stores looted amid continued unrest in downtown Los Angeles](https://abc7.com/post/stores-looted-amid-continued-unrest-downtown-los-angeles/16713513/) @reuters [Cleanup of graffiti, damage begins in Los Angeles as anti-ICE protests continue](https://www.reuters.com/world/us/cleanup-graffiti-damage-begins-los-angeles-anti-ice-protests-continue-2025-06-10/) [Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+
+[Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
+[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
+![LA_GRAFFiTi](https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb)
+![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
+
+[Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
+
+
+[Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+[Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
+
+
+
+
+# Welcome to the Bronx : [NYC Hood Vlogs](https://www.youtube.com/@HoodVlogs)
+Spending a day with [Charliee](https://www.instagram.com/charlieecole/?hl=en) Cole in the Bronx, New York City 
+[YOUTUBE:Charliee Cole @CharlieeColeMusic - `legend`](https://www.youtube.com/c/CharlieeColeMusic)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aC_xUrWkysE?si=j94kB8nkWJATeIDK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![image](https://github.com/user-attachments/assets/4b8090a8-152b-415e-9d9d-209f429833d7)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TRStCd7qYU?si=-D6Miul5T9nHayvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# [SPD seeking graffiti suspect tagging buildings](https://youtu.be/nGcuYSNRqSE?si=m36QPEyJ-nO7kJTq)
+[Graffiti Verite, Vol 1 California Graffiti documentary](https://youtu.be/NFPKXFGlBns?si=Q-HaJ9GPD6Y4Zyv1) [OJ Da Juiceman TONKA](https://youtu.be/vFUYBiufBFc?si=81a7IVp0aIcQg_ZU) [OJ Da Juiceman - Bouldercrest Day](https://youtu.be/Qf46uyMoFuY?si=QPF-ldj4XYgALFoz) [Bombing L.A. 1989 Original Full Length Entire Documentary](https://www.youtube.com/watch?v=1D9oSFLa4IQ) [Graffiti Verite Part 2](https://www.youtube.com/watch?v=9GWg-Hm6OhM) [Brand Nubian - All For One](https://youtu.be/u6n7ZXxGbio?si=6Ut6YMrmv6GUMjaB) [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?si=FIWBbg8gqlcUoLks) [Illegal Business - Boogie Down Productions](https://youtu.be/yHeBotnrwEI?si=d1On7aJKibbpsiBx)[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Criminal Minded Boogie Down Productions](https://youtu.be/HmcInEeV1TE?si=kCxht5bF1LfT__ok) [Ice-T 6'in the Morning](https://youtu.be/Ud4hgJwA0wY?si=qg0GJkdZy8p62SvK)[Ice-T - I'm Your Pusher](https://youtu.be/0f4TLU2oScE?si=qwyMVJzymiXWVSnR) [Ice-T - Bitches 2](https://youtu.be/aEhRM-JmXSk?si=Hr40gGCDZR-Ek5Pu) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
+[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx) [Trapped in the Closet: Chapters 1-12](https://youtu.be/pb7ot4NQ3sQ?si=g6rEbpBn3mMSmA5n) [Krush Groove](https://www.youtube.com/watch?v=GwK47zAL3eM) [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4) [Sly Artistic City - Philly graffiti history](https://youtu.be/xIVuaS08C3c?si=xniU3SCI9Lhz3iHO) [Piece By Piece : San Francisco Graffiti Documentary](https://youtu.be/7Ub8uRFzUCQ?si=SqBO4EvU5m0qK6yF) [Shepard Fairey Street Basics - FULL VIDEO](https://youtu.be/DJfeAvP8xTo?si=ZhruZyyW7wFs_g69) 
+[No Free Walls Street Art & Gentrification Collide in Bushwick](https://youtu.be/RsaFeiWFA3w?si=B1mw80rzTu-p8_K-) [OBEY THE GIANT - The Shepard Fairey Story (2012)](https://youtu.be/Fd918A4DGtc?si=jLoneAGAfrhzje6a) [Atlanta Nightlife - Beautiful Woman in Buckhead](https://youtu.be/0fN-aM32bmU?si=KK1B3iouWO0J3s0j) [Living in the ATL Pros and Cons  Just Keepin' It G](https://youtu.be/OwJgLTBPCLA?si=SP3GPcDiOpogVj8j) [CLARK ATLANTA Roomate HORROR STORY! she took the shower curtain.......](https://youtu.be/seV_mFJgSXo?si=XbfLVa3GPqq1IdU2) [Camp Lo - Coolie High](https://youtu.be/Y3nA3OgqWaw?si=yGaYvRhRsKk9y6V_) [Atlanta Georgia Nightlife - Mercedes Benz Stadium - Walking Tour ](https://youtu.be/4KlIhf867ig?si=U5Sjk83YcTD2agpA) [One Big A$$ Party at OPIUM Nightclub Atlanta, Baddie Overload! Hunxcho, Maybach's, Rolls Royce's!](https://youtu.be/bXKjp-GXtng?si=ndeN8I8DoN_KVURY) [Nas - It Ain't Hard to Tell ](https://youtu.be/3hOZaTGnHU4?si=_t_inbSU-lKi7Qqg) [Kanday - LL CooL J*scifi*](https://youtu.be/1HbqZLqM39U?si=2VtJmiftUKAnW84p) [Just-Ice - Going Way Back ](https://www.youtube.com/watch?v=0MkP-x_QNRk) [SLICK RICK MONA LISA](https://youtu.be/hcYWVCM2RgY?si=bA6TXgJOQK211fFI) [The Symphony - MArley MArl](https://youtu.be/6SXw3JjOTkA?si=y5UP9uCxLWqoTPUR) [Run-DMC : SuckerMcS](https://youtu.be/7PMmOdeMSzo?si=s03O-oTl6CH09k4Y) [Run DMC - King Of Rock (Live Aid 1985)](https://youtu.be/0Mo_1MbosZ0?si=lzZI1oK0GJBKstbs) [Roc Raida killing it in Oakland](https://youtu.be/SxbzelWA6HY?si=dt_OrsJreAFHedGg) [Roc Raida Zoo York](https://youtu.be/EGSPDuwiAHM?si=_AYrqe3bOl8GX8AH) [Fat Boys Can You Feel It ](https://youtu.be/K2WhOdsaPsQ?si=xxFfu8g4lywsBJ6B) [Death Row Chronicles FULL Episode 1 - Suge Knight Partners With Dr. Dre To Change Hip Hop Forever](https://youtu.be/EpmMuQsbtv8?si=yEYuEr8evvENKkLz) ![TheGrapeJuice dOt nEt](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
+[Blac Chyna Reflects On Personal Transformation To Her Most ‘Authentic Self’](https://www.accessonline.com/videos/blac-chyna-reflects-on-personal-transformation-to-her-most-authentic-self) [Jennifer Hudson Receives Round of Applause After Surprise Performance At Versailles: ‘My Spirit’](https://www.accessonline.com/videos/jennifer-hudson-receives-round-of-applause-after-surprise-performance-at-versailles-my-spirit) [Normani: “I’ve Been Tested Spiritually, Emotionally, Mentally, & Physically”](https://thatgrapejuice.net/2024/07/normani-ive-been-tested-spiritually-emotionally-mentally-physically/) [Normani Calls Album ‘Dopamine’ A ‘Declaration’ Of Her ‘Resilience’: ‘I’ve Never Given Up On Myself’](https://www.accessonline.com/articles/normani-calls-album-dopamine-a-declaration-of-her-resilience-ive-never-given-up-on-myself#google_vignette) [Sabrina Carpenter, Serena Williams, Eva Longoria, & More Stun at Vogue World: Paris 2024](https://www.accessonline.com/videos/sabrina-carpenter-serena-williams-eva-longoria-more-stun-at-vogue-world-paris-2024) [Ally Brooke Reveals How Much Fifth Harmony is Paid for Their Music (She Said It's a 'Criminal' Amount)](https://www.justjared.com/2024/07/27/ally-brooke-reveals-how-much-fifth-harmony-is-paid-for-their-music-she-said-its-a-criminal-amount/)
+
+
 ![12ozPRophet](https://media.invisioncic.com/h329776/monthly_2025_02/12ozProphet-logo-retina-light_0f1954.png)
 <iframe src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=0D4cjgEQcFrg46DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
